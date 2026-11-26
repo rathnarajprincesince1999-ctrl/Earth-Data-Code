@@ -1,17 +1,15 @@
 # Causal Early Warning Signals for Ecosystem Collapse
 ## Multivariate Deep Learning Framework Across Three Tropical Biomes
 
-**Paper:** Munireddy R., Muthu R., Dhakshinamoorthy G.P., Kunasekaran K., Manimaran K. (2026).
-*Causal Early Warning Signals for Ecosystem Collapse Detected by a Multivariate Deep Learning
-Framework Across Three Tropical Biomes.* Nature Machine Intelligence.
+**Paper:** Rajendraprasad Munireddy1, Rajapriya Muthu2, Gnana Prakash Dhakshinamoorthy2, Kadambanathan Kunasekaran3, Manimaran Kumar4, Karthigaimuthu Dharmalingam5*.
+*Causal Early Warning Signals for Ecosystem Collapse Detected by a Multivariate Deep Learning Framework Across Three Tropical Biomes.
 
 ---
 
 ## Repository Structure
 
 ```
-├── manuscript/               Manuscript + cover letter + references
-├── figures/                  Publication figures (Fig 1–6, PDF 300 dpi)
+├── ├── figures/                  Publication figures (Fig 1–6, PDF 300 dpi)
 ├── source_code/              Full analysis pipeline (Python)
 │   ├── README_code.md        Step-by-step reproduction guide
 │   ├── 00_setup/             Environment setup + data access guide
@@ -79,26 +77,7 @@ and `source_code/00_setup/DATA_ACCESS_GUIDE.md` for data access credentials.
 | ERA5 Monthly Reanalysis | Copernicus CDS | https://cds.climate.copernicus.eu |
 | ESA CCI Soil Moisture v8.1 | CEDA Archive | https://data.ceda.ac.uk |
 
----
 
-## Citation
 
-```bibtex
-@article{munireddy2026causal,
-  author  = {Munireddy, Rajendraprasad and Muthu, Rajapriya and
-             Dhakshinamoorthy, Gnana Prakash and Kunasekaran, Kadambanathan
-             and Manimaran, Kumar},
-  title   = {Causal Early Warning Signals for Ecosystem Collapse Detected
-             by a Multivariate Deep Learning Framework Across Three
-             Tropical Biomes},
-  journal = {Nature Machine Intelligence},
-  year    = {2026},
-}
-```
 
----
 
-## Contact
-
-Rajendraprasad Munireddy (Corresponding Author)
-Email: rathnarajsince1999@gmail.com

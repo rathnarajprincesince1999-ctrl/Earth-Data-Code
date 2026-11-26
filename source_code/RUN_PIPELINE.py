@@ -2,7 +2,7 @@
 MASTER PIPELINE RUNNER
 ========================
 Causal Early Warning System for Ecosystem Collapse
-— Nature Machine Intelligence Submission
+— Earth Submission
 
 Run this script to execute the full pipeline step by step.
 Each phase can be run independently or all together.
@@ -95,7 +95,7 @@ def main():
 
     print("=" * 60)
     print("ECOSYSTEM COLLAPSE CAUSAL EWS — FULL PIPELINE")
-    print("Nature Machine Intelligence Study")
+    print("Earth Study")
     print("=" * 60)
     print("\nPipeline phases:")
     for num, phase in PHASES.items():

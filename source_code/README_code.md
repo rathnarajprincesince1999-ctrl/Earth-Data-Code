@@ -3,7 +3,6 @@
 
 **Paper:** Munireddy R. et al. (2026). Causal Early Warning Signals for Ecosystem
 Collapse Detected by a Multivariate Deep Learning Framework Across Three Tropical Biomes.
-*Nature Machine Intelligence*.
 
 ---
 

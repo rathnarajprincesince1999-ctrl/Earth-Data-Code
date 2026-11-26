@@ -2,7 +2,7 @@
 MASTER MODELLING PIPELINE
 ==========================
 Causal Early Warning System for Ecosystem Collapse
-— Nature Machine Intelligence Submission
+— Earth Submission
 
 Runs all 5 modelling components in sequence.
 
@@ -82,7 +82,7 @@ def main():
 
     print("=" * 60)
     print("ECOSYSTEM COLLAPSE CAUSAL EWS — MODELLING PIPELINE")
-    print("Nature Machine Intelligence Study")
+    print("Earth Study")
     print("=" * 60)
     print("\nPipeline steps:")
     for num, step in STEPS.items():
